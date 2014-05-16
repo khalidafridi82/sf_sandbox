@@ -10,6 +10,6 @@ class Magazine extends CI_Controller {
 		}
 	 
 // testing
-// testing branch progress + stage + commit
+// testing Master Branch stage + commit + push
 }
 
