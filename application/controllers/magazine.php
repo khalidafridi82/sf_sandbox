@@ -10,5 +10,6 @@ class Magazine extends CI_Controller {
 		}
 	 
 // testing
+// to check testing branch in source tree
 }
 
