@@ -9,6 +9,6 @@ class Magazine extends CI_Controller {
 		
 		}
 	 
-
+// testing
 }
 
